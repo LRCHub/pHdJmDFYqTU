@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "都落ち",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-23T09:15:04.050626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "都落ち",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_都落ち_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "都落ち",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_都落ち_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "都落ち",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_都落ち_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "都落ち - Miyakoochi",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_都落ち_-_Miyakoochi_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "都落ち",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_都落ち_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "都落ち; Miyakoochi",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/06_都落ち;_Miyakoochi_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "都落ち",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/07_都落ち_ヨルシカ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "都落ち",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_都落ち_ヨルシカ.txt"
+    }
+  ]
+}
