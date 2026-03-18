@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "都落ち",
   "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-23T09:15:04.050626Z",
+  "createdAt": "2026-03-18T23:26:37.981401Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -67,6 +67,24 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_都落ち_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "都落ち",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_都落ち_ヨルシカ.lrc",
+      "repo_name": "EAkrQmUYDUQ"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "都落ち",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_02_都落ち_ヨルシカ.lrc",
+      "repo_name": "pHdJmDFYqTU"
     }
   ]
 }
